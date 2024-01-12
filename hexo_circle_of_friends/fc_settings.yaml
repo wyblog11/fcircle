@@ -35,7 +35,7 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
-        ["安凝雪科技", "https://www.anxkj.fun/", "https://akilar.top/images/headimage.png"],
+        ["安凝雪科技", "https://www.anxkj.fun/", "https://www.anxkj.fun/wp-content/uploads/2023/08/1-removebg-preview-1-e1690948213560.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
